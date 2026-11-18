@@ -1,0 +1,74 @@
+1. C'est quoi un agent IA ?
+Un agent IA (agent d'intelligence artificielle) est un programme informatique capable de comprendre un objectif, analyser une situation, prendre des décisions et réaliser des actions pour atteindre cet objectif.
+
+Contrairement à un chatbot classique qui répond principalement aux questions, un agent IA peut effectuer plusieurs tâches et utiliser des outils de manière autonome, selon les permissions qu'on lui donne.
+
+Exemple : un agent IA pour les étudiants
+
+Tu lui demandes : « Aide-moi à organiser mes révisions pour la semaine ».
+
+Il peut :
+- Analyser les matières à réviser.
+- Identifier les tâches prioritaires.
+- Créer un planning.
+- Adapter le planning si tu as une nouvelle activité.
+- Te rappeler les tâches à effectuer, si un outil de rappel est disponible.
+2. Les composants d'un agent IA
+Architecture simplifiée d'un agent IA
+1. Utilisateur
+
+Donne un objectif ou une instruction
+
+
+2. Cerveau (modèle IA)
+
+Comprend, raisonne et décide
+
+
+3. Outils
+
+Recherche, calcul, fichiers, calendrier…
+
+
+4. Action et résultat
+
+Exécute la tâche et présente le résultat
+
+
+Les principaux composants sont :
+- Modèle IA (LLM) : le cerveau qui comprend et génère des réponses.
+- Instructions : définissent le rôle et les objectifs de l'agent.
+- Outils : permettent d'effectuer des actions.
+- Mémoire : conserve des informations utiles.
+- Boucle de décision : permet de réfléchir à la prochaine action jusqu'à atteindre l'objectif ou demander de l'aide.
+3. Les étapes pour construire un agent IA
+Voici les étapes principales :
+1. Étape 1 : Définir l'objectif
+   
+   Déterminer le problème que l'agent doit résoudre.
+   
+   Exemple : créer un agent qui aide les étudiants à organiser leurs révisions.
+2. Étape 2 : Choisir le modèle IA
+   
+   Choisir un modèle de langage (LLM) qui sera le cerveau de l'agent.
+   
+   Exemple : GPT ou un autre modèle de langage.
+3. Étape 3 : Définir les instructions
+   
+   Donner à l'agent un rôle, des règles et des limites.
+   
+   Exemple : « Tu es un assistant pédagogique qui aide les étudiants à planifier leurs études. »
+4. Étape 4 : Ajouter les outils
+   
+   Connecter les outils nécessaires à son travail.
+   
+   Exemple : calculatrice, calendrier, moteur de recherche ou gestionnaire de fichiers.
+5. Étape 5 : Ajouter une mémoire
+   
+   Lui permettre de conserver les informations utiles pour mieux accomplir ses tâches.
+6. Étape 6 : Tester l'agent
+   
+   Lui donner plusieurs situations pour vérifier que ses réponses et ses actions sont correctes.
+7. Étape 7 : Améliorer et déployer
+   
+   Corriger les erreurs, améliorer ses instructions et le rendre accessible aux utilisateurs.
